@@ -1,6 +1,6 @@
 variable sample_variable{
-  value="Hello world!"
+  default="Hello world!"
 }
 output sample_variable{
-  default="variable.sample_variable"
+  value="variable.sample_variable"
 }
