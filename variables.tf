@@ -20,7 +20,6 @@ variable "sample_dict"{
 }
 #command terraform apply -var-file=dev.tfvars--> to provide the env dynamically
 variable env{
-
 }
 #to provide the auto variable
 #command terraform apply -var-file=dev.tfvars -auto-approve--> to provide the env dynamically
