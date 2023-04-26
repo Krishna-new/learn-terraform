@@ -24,7 +24,7 @@ variable env{
 }
 #to provide the auto variable
 #command terraform apply -var-file=dev.tfvars -auto-approve--> to provide the env dynamically
-variable autoex1{
+variable auto_num1{
 }
 #to provide the terraform.tfvars
 variable sample_new{}

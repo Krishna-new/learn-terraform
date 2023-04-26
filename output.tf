@@ -20,8 +20,8 @@ output env{
 }
 
 #to print auto-tfvars
-output auto_ex1{
-  value=var.autoex1
+output auto_num1{
+  value=var.auto_num1
 }
 #to print the terraform.tfvars
 output sample_new{
